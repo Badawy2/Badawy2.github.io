@@ -1,0 +1,26 @@
+
+	 h1{color: white; font-family: Times New Roman;font-size: x-large;}
+	 h2{color: white; font-family: Times New Roman;font-size:large;}
+	 h4{color: white; font-family: Times New Roman;font-size: x-large;size: +2;}
+
+
+	 h3{color: white;font-family: Tahoma; font-size: medium;}
+	table,  th,td{font-family: Calibri; color: white;border:white; }
+	p{ color: white; font-family: helvetic; font-size: largeA; }
+	ul{color: white;font-family: Arial;}
+	.importante{color: red;}
+	#indice {color: purple;}
+	b{color: white; font-family:Times New Roman ;}
+
+	body{ 
+
+
+		background-image: url(background_1.jpg);
+		background-size: cover;
+		background-position: center;
+		
+	}
+	table.center {
+  margin-left: auto;
+  margin-right: auto;
+	}
